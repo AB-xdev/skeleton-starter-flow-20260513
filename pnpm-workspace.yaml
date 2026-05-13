@@ -1,0 +1,2 @@
+# Delay install of newly released packages to prevent supply chain attacks
+minimumReleaseAge: 180 # 3h

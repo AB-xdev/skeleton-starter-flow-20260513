@@ -167,6 +167,9 @@
                         </goals>
                     </execution>
                 </executions>
+				<configuration>
+					<pnpmEnable>true</pnpmEnable>
+				</configuration>
             </plugin>
         </plugins>
     </build>
